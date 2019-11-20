@@ -1,0 +1,4 @@
+Date|Time|Voltage(V)|Current(A)|Power(W)|Battery Voltage(V)|Ambient Temp.(°C)|Light Int.(lux)|Temperature sensor(°C)|Humidity sensor(RH)|Weather condition|Temperature WetterOnline(°C)|Humidity WetterOnline(RH)|Global radiation(W/m^2)|Wind's speed(m/s)|Ground pressure(hPa)|Rainfall(mm)|Rainfall's possibility(%)|Wind's direction(°)|Wind's cardinal direction|Wind's speed(Beaufort)|Wind gust(Beaufort)|Wind gust(km/h)|Feel-like temperature|Azimuth|Elevation
+2019-09-18|15:50:00|16.87|0.51|8.75|14.59|23.05|810.45|28.2|24.1|so____|15.3|45|315|2.1|1022.4|0.0|10|10|n|2|3|19|15.3|0.00|9.99
+2019-09-18|15:56:00|43.82|0.09|4.32|14.44|23.05|778.543|28.3|23.7|so____|15.3|45|315|2.1|1022.4|0.0|10|10|n|2|3|19|15.3|0.00|9.99
+2019-09-18|15:57:00|43.87|0.09|4.18|14.43|23.08|714.729|28.3|23.4|so____|15.3|45|315|2.1|1022.4|0.0|10|10|n|2|3|19|15.3|0.00|9.99

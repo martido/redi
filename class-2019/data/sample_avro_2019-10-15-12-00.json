@@ -1,0 +1,88 @@
+{
+    "msgID": "msg0",
+    "msgVer": "1.0",
+    "gwID": "MGate 5105_8352",
+    "Regulator": {
+        "Voltage": 4354,
+        "Current": 17,
+        "Power": 741,
+        "Battery_voltage": 1454,
+        "Battery charging current": 51,
+        "Battery charging power": 756,
+        "Load voltage": 1454,
+        "Load current": 2,
+        "Load power": 29,
+        "Battery Temperature": 2130,
+        "Temperature inside case": 3322,
+        "Power component temperature": 0,
+        "Batterys remaining capacity": 0,
+        "Remote battery temperature": 0,
+        "Batterys rated power": 1200,
+        "Battery status": 0,
+        "Charing equipment status": 11,
+        "Maximum input volt(PV) today": 0,
+        "Minimum input volt(PV) today": 0,
+        "Maximal battery volt today": 0,
+        "Minimum battery volt today": 0,
+        "Consumed energy today": 0,
+        "Consumed energy this month": 0,
+        "Consumed energy this year": 320,
+        "Total consumed energy": 345,
+        "Generated energy today": 3,
+        "Generated energy this month": 0,
+        "Generated energy this year": 0,
+        "Total generated energy": 1025,
+        "Carbon dioxide reduction": 1,
+        "Battery current": 50
+    },
+    "Temp": {
+        "Ambient Temp": 2129,
+        "Battery Temp": 2129
+    },
+    "Light": {
+        "LUX": 4.655069351196289
+    },
+    "Temp/Humi": {
+        "Temperature in lab": 266,
+        "Humidity in lab": 395
+    },
+    "Rated value": {
+        "Panels rated voltage": 15000,
+        "Panels rated current": 1,
+        "Panels rated power": 26000,
+        "Batterys voltage": 2400,
+        "Charging current to battery ": 0,
+        "Charging power to battery": 0,
+        "Rated output current of load": 0
+    },
+    "dateTime": "2019-10-15T14:00:54+00:00",
+    "WetterOnline": {
+        "info": {
+            "locations": [
+                "x0411"
+            ],
+            "type": "city"
+        },
+        "x0411": {
+            "data": {
+                "dd_deg": 125,
+                "dd_dir": "so",
+                "ff_bft": 2,
+                "ff_ms": 2.1,
+                "fx_bft": 3,
+                "fx_kmh": 18,
+                "pop": 10,
+                "pp_hpa": 1006.0,
+                "rad_wm2": 620,
+                "rh": 55,
+                "rr_mm": 0.0,
+                "tt_C": 17.7,
+                "tta_C": 17.7,
+                "wm": "so____"
+            },
+            "meta": {
+                "local_date": "2019-10-15 13:59:09"
+            }
+        }
+    }
+}

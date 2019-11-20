@@ -1,0 +1,13 @@
+name: redi2019
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pandas
+  - azure-storage-blob
+  - python-avro
+  - ipykernel
+  - tqdm
+prefix: /Users/q425007/anaconda3/envs/redi2019
+
