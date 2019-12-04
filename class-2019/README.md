@@ -11,6 +11,8 @@ python -m ipykernel install --user --name redi2019 --display-name "redi2019"
 conda create --name redi2019 python=3.6
 conda install pandas
 conda install seaborn
+conda install jinja2
+conda install -c conda-forge scikit-learn
 conda install -c conda-forge azure-storage-blob
 conda install -c conda-forge python-avro
 conda install -c conda-forge tqdm
